@@ -3,3 +3,12 @@ This is just to check push/pull and commit/update options
 This is just to check push/pull and commit/update options
 This is just to check push/pull and commit/update options
 This is just to check push/pull and commit/update options
+
+----------------------------------
+
+This is to test second commit
+This is to test second commit
+This is to test second commit
+This is to test second commit
+This is to test second commit
+This is to test second commit
